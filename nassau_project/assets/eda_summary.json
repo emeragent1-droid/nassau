@@ -1,0 +1,24 @@
+{
+  "n_orders": 10194,
+  "n_products": 15,
+  "n_factories": 5,
+  "raw_leadtime_mean_days": 1320.8,
+  "raw_leadtime_same_day_vs_standard_note": "Same Day raw lead time is NOT shorter than Standard Class \u2014 raw dates are unreliable (see research paper)",
+  "est_leadtime_mean_days": 5.23,
+  "avg_distance_km": 1995.7,
+  "avg_gross_profit": 9.17,
+  "avg_est_shipping_cost": 1.9,
+  "avg_adjusted_profit": 7.27,
+  "corr_distance_vs_leadtime": 0.623,
+  "corr_distance_vs_shipcost": 0.47,
+  "worst_route_leadtime": [
+    "Wicked Choccy's",
+    "Pacific"
+  ],
+  "worst_route_leadtime_days": 7.36,
+  "best_route_leadtime": [
+    "The Other Factory",
+    "Gulf"
+  ],
+  "best_route_leadtime_days": 2.79
+}
